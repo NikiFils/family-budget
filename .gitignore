@@ -1,0 +1,8 @@
+# ОС
+Thumbs.db
+.DS_Store
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
